@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chauhadry
 - 👀 I’m interested in Python programming 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python programming 
+- 💞️ I’m looking to collaborate with Python programmers 
 - 📫 How to reach me on GitHub
   
 
