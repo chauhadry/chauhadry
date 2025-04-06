@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chauhadry
+- 👋 Hi, I’m Muhammad Afzaal
 - 👀 I’m interested in Python programming 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate with Python programmers 
 - 📫 How to reach me on GitHub
   
